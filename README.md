@@ -1,7 +1,6 @@
-# snippet-box
-Snippet-Box - Notas - Docker compose
+# Snippet-Box
 
-Ver en "localhost:8200"
+Ver en "http://localhost:8200"
 
 Vídeo:
 
